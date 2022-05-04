@@ -1,7 +1,7 @@
 data "terraform_remote_state" "vpc" {
   backend = "s3"
   config = {
-    bucket = "jdmedeiros-spotsolr-tfstate"
+    bucket = "lmelo-spotsolr-tfstate"
     key = "prod/vpc/terraform.tfstate"
     region = "us-east-1"
   }
