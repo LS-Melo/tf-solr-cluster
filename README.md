@@ -51,3 +51,9 @@ output = json
 <img width="1419" alt="image" src="https://user-images.githubusercontent.com/3796667/166133150-e3afc652-6936-4014-af18-ba58dc9394ba.png">
 
 5. [Learn Apache Solr](https://www.google.com/search?q=learn+apache+solr&rlz=1C5CHFA_enPT818PT818&oq=learn+apache+Solr&aqs=chrome.0.0i512j0i22i30j0i390l3.4282j0j7&sourceid=chrome&ie=UTF-8)
+
+*Obective: Find the SOLR Admin password!
+
+Tips:
+1. Write on the terminal the contents of the variable "SECRET" (Variable of the Admin Password)
+2. Access the machine (instance) "solr1" by SSH and go to the file "/var/log/cloud-config-detail.log" and look for the password manually or more specifically "cat /var/log/cloud-config-detail.log | grep PASSWORD"
