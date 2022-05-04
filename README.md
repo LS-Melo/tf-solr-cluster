@@ -21,4 +21,4 @@ Solr cluster with 3 servers and 3 zookeepers
 
 5. [Learn Apache Solr](https://www.google.com/search?q=learn+apache+solr&rlz=1C5CHFA_enPT818PT818&oq=learn+apache+Solr&aqs=chrome.0.0i512j0i22i30j0i390l3.4282j0j7&sourceid=chrome&ie=UTF-8)
 
-Other Branch (Find admin password): https://github.com/LS-Melo/tf-solr-cluster/tree/feature-secure-solr
+Other Branch (Find admin password): [2nd Branch (Find Admin Password)](https://github.com/LS-Melo/tf-solr-cluster/tree/feature-secure-solr)
